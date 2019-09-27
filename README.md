@@ -1,4 +1,4 @@
-# Trabalho Gerencia de Configuracao
+# Trabalho Gerência de Configuração
 
 #### Trabalho da disciplina Gerência de Configuração de Software cursada na Fundação Universidade de Mato Grosso do Sul, não existem códigos nos arquivos deles, são somente controles de versões para aprendizado criados em sala de aula.
 
