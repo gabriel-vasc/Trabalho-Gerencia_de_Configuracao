@@ -9,3 +9,13 @@
     Gabriel Serra
     Lucas Kazuo Mimura
     Matheus Pereira Castro Alves dos Santos
+    
+    
+    
+    Requisitos  Francisco/Gabriel 
+    Back   Matheus 
+    Front   Édini 
+    Modelagem  Lucas 
+    Teste (casos)  Lucas/Francisco 
+    Teste (relatórios) Matheus/Édini 
+    Release notes  Gabriel
