@@ -5,7 +5,7 @@
 ###### O seguinte trabalho é feito sob orientação do professor Francisco Vasconcelos e tem como integrantes no grupo os alunos:
 
     Édini Marques Zanlucas
-    Francisco
+    Francisco José Costa Calarge
     Gabriel Serra
     Lucas Kazuo Mimura
     Matheus Pereira Castro Alves dos Santos
