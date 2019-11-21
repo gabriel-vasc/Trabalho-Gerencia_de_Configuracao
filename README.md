@@ -19,3 +19,5 @@
     Teste (casos)  Lucas/Francisco 
     Teste (relatórios) Matheus/Édini 
     Release notes  Gabriel
+
+    Release entrega o/
